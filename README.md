@@ -1,33 +1,53 @@
-# GiveChain
+<h1 align="center">⛓️ GiveChain</h1>
 
-A blockchain-based transparent donation platform built using the MERN stack and Ethereum. GiveChain enables users to donate securely through MetaMask while ensuring every donation is publicly verifiable on the Sepolia Ethereum testnet.
+<h3 align="center">
+Blockchain-Based Transparent Donation Platform
+</h3>
 
-## Features
+<p align="center">
+Secure • Transparent • Decentralized
+</p>
 
-- Secure user authentication
-- NGO and donor dashboards
-- Create and manage donation campaigns
-- Donate using MetaMask wallet
-- Smart contracts deployed on Ethereum Sepolia Testnet
-- Transparent on-chain transaction verification
-- Donation history and campaign tracking
-- Responsive user interface
+---
 
-## Tech Stack
+# 📖 About
 
-### Frontend
+GiveChain is a **blockchain-powered donation platform** built using the **MERN Stack** and **Ethereum**. It enables donors to contribute securely through **MetaMask**, while ensuring every donation is permanently recorded on the **Sepolia Ethereum Testnet**, providing complete transparency and trust.
+
+---
+
+# ✨ Features
+
+- 🔐 Secure User Authentication
+- 👥 Separate Dashboards for Donors & NGOs
+- 💰 Blockchain-based Donations
+- 🦊 MetaMask Wallet Integration
+- ⛓️ Smart Contracts on Ethereum Sepolia
+- 📜 Transparent Transaction History
+- 📊 Campaign Management
+- 📱 Responsive User Interface
+
+---
+
+# 🛠 Tech Stack
+
+## 🎨 Frontend
+
 - React.js
 - Bootstrap
 - Axios
 
-### Backend
+## ⚙️ Backend
+
 - Node.js
 - Express.js
 
-### Database
+## 🗄 Database
+
 - MongoDB Atlas
 
-### Blockchain
+## ⛓ Blockchain
+
 - Solidity
 - Ethereum (Sepolia Testnet)
 - MetaMask
@@ -35,25 +55,29 @@ A blockchain-based transparent donation platform built using the MERN stack and 
 
 ---
 
-## Project Structure
+# 📂 Project Structure
 
-```
-GiveChain/
-│── client/          # React frontend
-│── server/          # Express backend
-│── README.md
+```text
+GiveChain
+│
+├── client/
+├── server/
+├── screenshots/
+├── README.md
+└── .gitignore
 ```
 
 ---
 
-## Installation
+# 🚀 Installation
 
-### Clone the repository
+### Clone Repository
 
 ```bash
 git clone https://github.com/srivastavaaryan3111-droid/givechain.git
-cd givechain
 ```
+
+---
 
 ### Backend Setup
 
@@ -62,6 +86,8 @@ cd server
 npm install
 npm start
 ```
+
+---
 
 ### Frontend Setup
 
@@ -73,13 +99,11 @@ npm start
 
 ---
 
-## Environment Variables
+# 🔑 Environment Variables
 
-Create a `.env` file inside the server folder.
+Create a **.env** file inside the **server** folder.
 
-Example:
-
-```
+```env
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 PORT=5000
@@ -87,39 +111,46 @@ PORT=5000
 
 ---
 
-## Screenshots
+# 📸 Screenshots
 
-Add screenshots of:
+| Home | Dashboard |
+|------|-----------|
+| *(Add Image)* | *(Add Image)* |
 
-- Home Page
-- Login / Signup
-- Campaign Listing
-- Donation Page
-- MetaMask Transaction Popup
-- Transaction History
-- NGO Dashboard
-
-Store them inside a `screenshots/` folder and reference them here.
+| Donation Page | MetaMask |
+|--------------|----------|
+| *(Add Image)* | *(Add Image)* |
 
 ---
 
-## Future Improvements
+# 🌟 Future Enhancements
 
-- Razorpay integration
-- Donation analytics dashboard
-- NFT-based donation certificates
-- Email notifications
-- Multi-chain support
+- 💳 Razorpay Integration
+- 📧 Email Notifications
+- 📈 Donation Analytics Dashboard
+- 🎖 NFT Donation Certificates
+- 🌍 Multi-chain Support
 
 ---
 
-## Author
+# 👨‍💻 Author
 
 **Aryan Srivastava**
-- GitHub: https://github.com/srivastavaaryan3111-droid
+
+📧 **Email:** srivastavaaaryan3111@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/aryan-srivastava-4661b0311
+
+💻 **GitHub:** https://github.com/srivastavaaryan3111-droid
 
 ---
 
-## License
+# ⭐ Support
 
-This project is developed for educational and learning purposes.
+If you found this project useful, consider giving it a ⭐ on GitHub!
+
+---
+
+<h3 align="center">
+Made with ❤️ using MERN + Ethereum
+</h3>
