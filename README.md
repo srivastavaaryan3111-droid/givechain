@@ -111,18 +111,6 @@ PORT=5000
 
 ---
 
-# 📸 Screenshots
-
-| Home | Dashboard |
-|------|-----------|
-| *(Add Image)* | *(Add Image)* |
-
-| Donation Page | MetaMask |
-|--------------|----------|
-| *(Add Image)* | *(Add Image)* |
-
----
-
 # 🌟 Future Enhancements
 
 - 💳 Razorpay Integration
